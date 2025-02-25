@@ -42,11 +42,13 @@ Como representação visual do fluxo de dados, fluxogramas são úteis para escr
 
 ## Atividade prática
 ### Fluxograma relacionado ao desenvolvimento de sistemas: Autenticação de usuário
-![Fluxograma desenvolvimento de sistemas](https://github.com/user-attachments/assets/6e3f705d-ffab-4ccb-a131-32029e26d772)
+![image](https://github.com/user-attachments/assets/301cc2bc-7c8e-40f8-bd14-2e4953bc6725)
+
 #### Descrição das ferramentas utilizadas:
 Utilizei a plataforma canva.com para elaborar o meu fluxograma. Usei o símbolo oval para indicar o início da sequência e setas para representar as direções tomadas. Também usei retângulos para designar as ações, um símbolo que indica que alguma informação ou dado será exibido para leitura e losangos que indicam as decisões que precisam ser tomadas. Estes geralmente resultam em dois caminhos alternativos com base na decisão tomada.
 ### Fluxograma relacionado à lógica de programação: Algoritmo para verificar se um número é par ou ímpar
-![Fluxograma ](https://github.com/user-attachments/assets/c658050f-1911-4aae-8c91-c56a128af5f5)
+![image](https://github.com/user-attachments/assets/5ac69845-9944-4da7-8ce8-8f5b43c552d0)
+
 #### Descrição das ferramentas utilizadas:
 Também utilizei a plataforma canva.com para elaborar esse fluxograma. Usei o símbolo oval para indicar o início da sequência e setas para representar as direções tomadas. Também usei retângulos para designar as ações e um losango que indica a resolução, resultando em dois caminhos alternativos.
 ## Conclusão
